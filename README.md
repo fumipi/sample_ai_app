@@ -4,6 +4,6 @@ Udmy講座：人工知能アプリを手軽に公開しよう　のサンプル�
 ここで動いている
 https://fumipi-sample-ai-app-app-tabo9r.streamlit.app/
 
-
+ただし、指定したemailの人しか見れません。
 
 
